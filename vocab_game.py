@@ -134,6 +134,6 @@ if st.session_state.get("is_ended", False):
     )
 
 st.divider()
-st.write("นางสาวดีใจ ยิ้มแย้ม เลขที่ 5 ม.4/5")
+st.write("นางสาวกุลธิดา เวชกามา เลขที่ 40 ม.4/3")
 
 
